@@ -1,0 +1,14 @@
+AI-Traffic-Light-Project/
+│
+├── app.py
+├── requirements.txt
+├── LICENSE
+├── .gitignore
+├── README.md
+├── CONTRIBUTING.md
+│
+├── data/
+│   ├── yolov3-ambulance.cfg
+│   ├── yolov3-ambulance.weights
+│   ├── obj.names
+│   └── README.md
