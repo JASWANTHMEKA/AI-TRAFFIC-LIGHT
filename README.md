@@ -1,6 +1,3 @@
-Certainly! Here's a sample README for your AI Traffic Light project that focuses on ambulance detection and priority:
-
----
 
 # AI Traffic Light System for Ambulance Detection
 
