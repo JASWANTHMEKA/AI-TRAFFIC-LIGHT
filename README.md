@@ -71,15 +71,7 @@ To detect ambulances specifically, a custom-trained YOLO model is used. You can 
 
 Contributions are welcome! Please open an issue or submit a pull request with any improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Acknowledgements
 
 - YOLO (You Only Look Once) by Joseph Redmon and Ali Farhadi.
 - Streamlit for providing a simple way to create web interfaces.
-
----
-
-This README provides a comprehensive overview of the project, including installation instructions, usage guidelines, and details about the system's functionality. Feel free to customize it further to match your project's specifics.
